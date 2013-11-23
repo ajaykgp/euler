@@ -1,4 +1,4 @@
 Project Euler
 =============
 
-My solutions of Project Euler problems in Python.
+My solutions to Project Euler problems in Python.
