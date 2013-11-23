@@ -1,4 +1,4 @@
-project_euler
+Project Euler
 =============
 
-My solutions of Project Euler problems which I've found interesting and could solve.
+My solutions of Project Euler problems in Python.
